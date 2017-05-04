@@ -1,0 +1,21 @@
+# Site settings
+title: The Journey of Learning and Coding
+header-img: img/home-bg.png
+email: sccaro89@gmail.com
+copyright_name: sequina
+description: > # this means to ignore newlines until "baseurl:"
+  Where do I begin?
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: scaro88
+github_username:  sequina
+learn_profile: sequina
+email_username: sccaro89@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
