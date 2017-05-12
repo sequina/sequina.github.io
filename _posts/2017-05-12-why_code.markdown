@@ -1,0 +1,16 @@
+---
+layout: post
+title:  ' Why Code?'
+date:   2017-05-12 23:53:22 +0000
+---
+
+
+I finished my undergrad with a Bachelor of Science degree in Law/Criminal Justice. After graduation I took some time off and traveled Europe. During that time I was able to experience life and find out what I am truley good at. I found myself solving problems by looking at the end goal and finding the quickest route to achieve that goal. I found that I enjoyed being creative through theatre and the arts. With this information I googled jobs that are creative and can solve problems. 
+
+
+Then software development appeared! I thought this was right where I want to be. I could learn how to create something out of nothing!!! I was so excited to start learning. After I came back from Europe I took a few jobs in IT to learn the many apecs of computers. After being in IT for about six months I started teahcing myself Python. A year goes by and I felt like I was not getting anywhere. So I decided to google schools in my area but not traditional schooling; lets face it nobody wants to do that again!
+
+I then googled schools for programming and eventually found a school that fits my learning requirements for myself and fits my schedule...The Flatiron School. So now i am here wanting to create a functioning application for a business or for people. I find this process to be the most rewarding but yet painful process I have ever expeienced in my life...but I also love it!!! :)
+
+
+Happy Coding! :)
