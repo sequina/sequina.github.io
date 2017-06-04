@@ -1,7 +1,7 @@
 ---
 layout: post
 title:   " CLI Project Journey"
-date:   2017-06-04 00:22:40 +0000
+date:   2017-06-03 20:22:41 -0400
 ---
 
 
