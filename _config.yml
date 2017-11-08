@@ -1,15 +1,15 @@
 # Site settings
 title: The Journey of Learning and Coding
 header-img: img/home-bg.png
-email: sccaro89@gmail.com
+email: schall0010@gmail.com
 copyright_name: sequina
 description: > # this means to ignore newlines until "baseurl:"
   Where do I begin?
 baseurl: "" # the subpath of your site, e.g. /blog
-twitter_username: scaro88
+twitter_username: 
 github_username:  sequina
 learn_profile: sequina
-email_username: sccaro89@gmail.com
+email_username: schall0010@gmail.com
 
 # Build settings
 markdown: kramdown
